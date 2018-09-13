@@ -1,1 +1,1 @@
-# StephanieLips.github.io
+# Lipsenbekenntnisse.github.io
