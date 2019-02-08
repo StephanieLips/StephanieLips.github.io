@@ -98,4 +98,6 @@ p {
 .post-author img, .about-author img {
   border-radius: 50%;
 }
-
+.post-container:nth-child(odd) {
+  background-color: #f2f2f2;
+}
